@@ -1,6 +1,6 @@
 const db = {
     pedidos: [],
-    documento: [],
+    documentos: [],
     exames: []
 };
 
